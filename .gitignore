@@ -1,0 +1,9 @@
+target/
+.env
+.env.*
+!.env.example
+*.class
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
